@@ -1,0 +1,35 @@
+Admin
+login
+manage vendor(accept/reject)
+manage user
+manage category
+manage products
+manage vendor products(approve/reject)
+manage all orders
+manage payment
+view commision payment
+view feedback
+
+vendor
+register
+login
+manage category
+manage product
+manage orders
+manage payment
+view feedback
+
+user
+register
+login
+filter category
+view/search product
+order product
+make payment
+view order status/history
+write feedback
+
+
+unsplash
+claude.ai
+
